@@ -1,5 +1,5 @@
 Secret pass :- adishiv:sshp@$$
 
-
+arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess
 Access Key ID: AKIA1234567890FAKEKEY
 Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYzFAKEKEY
