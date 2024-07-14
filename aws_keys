@@ -4,3 +4,6 @@ arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess
 Access Key ID: AKIA1234567890FAKEKEY
 Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYzFAKEKEY
 https://admin:admin@the-internet.herokuapp.com
+
+
+arn:aws:secretsmanager:us-east-2:123456789012:secret:test2-a1b2c3
