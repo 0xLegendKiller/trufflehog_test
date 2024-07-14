@@ -7,3 +7,4 @@ https://admin:admin@the-internet.herokuapp.com
 
 
 arn:aws:secretsmanager:us-east-2:123456789012:secret:test2-a1b2c3
+arn:aws:secretsmanager:us-east-2:123456789012:secret:test3-a1b2c3
